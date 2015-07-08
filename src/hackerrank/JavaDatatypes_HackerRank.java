@@ -1,4 +1,4 @@
-package RandomTest;
+package hackerrank;
 
 import java.io.*;
 
